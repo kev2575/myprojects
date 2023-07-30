@@ -1,0 +1,1 @@
+This is the minesweeper game. It has two different ways you can use it you can put in a seed file that will create the map and put the bombs where they are supposed to go or it has a default seed. If you need any help you can type in the help command when you run the program. You run the program from the driver file
