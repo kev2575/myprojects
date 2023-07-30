@@ -1,0 +1,6 @@
+Kevin Howard 811502977
+
+To create the executable type in make.
+To run it you need to type in ./shell
+make run can be used to create the executable and run it.
+To clean or get rid of the executable type make clean
