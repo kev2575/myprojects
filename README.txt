@@ -1,1 +1,0 @@
-This a graphics program that generates 3-d objects based on user input. The program uses bresenham's algorithm to create the lines and uses concepts including perspective projection and edge tables to create the object.
